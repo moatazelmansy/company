@@ -1,0 +1,17 @@
+.navbar{
+    border-bottom: 5px solid #0098DA;
+}
+header{
+    min-height: 100vh;
+    background: radial-gradient(rgba(0,0,0,.7),rgba(0,0,0,.7) ) , url(../images/home.jpg);
+    background-size: cover;
+    background-position: center;
+padding-top: 150px;
+}
+<input type="email" placeholder="Email" class="form-control form-control-lg mb-3">
+<input type="password" placeholder="Password" class="form-control form-control-lg mb-3">
+<input type="password" placeholder="Confirm Password" class="form-control form-control-lg mb-3">
+
+<div class="d-grid">
+  <button type="button" class="btn btn-outline-light">Light</button>
+</div>
